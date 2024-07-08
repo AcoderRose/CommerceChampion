@@ -38,9 +38,9 @@ To install CommerceChampion:
 
 - Start the application, in the terminal by executing the following command: `npm start`
 
-[Link to Walkthrough Video]()
+[Link to Walkthrough Video](https://drive.google.com/file/d/1UlspjR8yGbdl770-qjP46BhdAufHVmwG/view?usp=sharing)
 
-![Screenshot of CommerceChampion]()
+![Screenshot of CommerceChampion](./images/CommerceChampion-screenshot.PNG)
 
 ## Credits
 
